@@ -1,9 +1,13 @@
 - name: foor.bar
   groups:
-    - aws-inc_admin-developer
-    - aws-inc_dev-developer
+  - aws-inc_admin-developer
+  - aws-inc_dev-developer
 - name: jhon.doe
   groups:
-    - aws-dp_production-developer
-    - aws-dp_staging-developer
-    - aws-dp_production-data
+  - aws-dp_production-developer
+  - aws-dp_staging-developer
+  - aws-dp_production-data
+- name: John.Doe
+  groups:
+  - aws-web_staging-developer
+  - aws-web_qa-admin
