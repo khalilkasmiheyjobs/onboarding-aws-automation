@@ -1,7 +1,7 @@
 - name: foor.bar
   groups:
-    - aws-heyjobs_admin-developer
-    - aws-heyjobs_dev-developer
+    - aws-inc_admin-developer
+    - aws-inc_dev-developer
 - name: jhon.doe
   groups:
     - aws-dp_production-developer
