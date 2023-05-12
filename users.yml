@@ -1,0 +1,9 @@
+- name: foor.bar
+  groups:
+    - aws-heyjobs_admin-developer
+    - aws-heyjobs_dev-developer
+- name: jhon.doe
+  groups:
+    - aws-dp_production-developer
+    - aws-dp_staging-developer
+    - aws-dp_production-data
