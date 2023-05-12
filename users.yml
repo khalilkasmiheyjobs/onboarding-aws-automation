@@ -1,9 +1,12 @@
-- name: foor.bar
-  groups:
-    - aws-heyjobs_admin-developer
-    - aws-heyjobs_dev-developer
-- name: jhon.doe
-  groups:
-    - aws-dp_production-developer
-    - aws-dp_staging-developer
-    - aws-dp_production-data
+- groups:
+  - aws-heyjobs_admin-developer
+  - aws-heyjobs_dev-developer
+  name: foor.bar
+- groups:
+  - aws-dp_production-developer
+  - aws-dp_staging-developer
+  - aws-dp_production-data
+  name: jhon.doe
+- groups:
+  - aws-web_qa-admin
+  name: john.doe
