@@ -13,3 +13,8 @@
   - aws-web_production-admin
   - Datadog - users
   - PagerDuty - admin
+- name: Khalil.Kasmi
+  groups:
+  - self: https://heyjobs.atlassian.net/rest/api/2/customFieldOption/12909
+    value: aws-web_production-admin
+    id: '12909'
