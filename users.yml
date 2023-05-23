@@ -13,3 +13,6 @@
   - aws-web_production-admin
   - Datadog - users
   - PagerDuty - admin
+- name: khalil.kasmi
+  groups:
+  - aws-web_production-admin
