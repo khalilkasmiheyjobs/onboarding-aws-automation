@@ -21,3 +21,4 @@
 - name: tales.cione
   groups:
   - aws-dp_snowplow-developer
+  - AWS - Client VPN
