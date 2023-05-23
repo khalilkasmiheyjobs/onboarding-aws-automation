@@ -13,3 +13,8 @@
   - aws-web_production-admin
   - Datadog - users
   - PagerDuty - admin
+- name: prashant.gusain
+  groups:
+  - aws-heyjobs_admin-admin
+  - aws-heyjobs_dev-developer
+  - aws-inv_qa-developer
