@@ -22,3 +22,4 @@
   groups:
   - aws-dp_snowplow-developer
   - AWS - Client VPN
+  - aws-dp_production-data
